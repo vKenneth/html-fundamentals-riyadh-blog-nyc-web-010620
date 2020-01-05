@@ -56,3 +56,4 @@ RSpec.describe "Well-Formed HTML Document" do
   end
 
 end
+<h1></h1>
